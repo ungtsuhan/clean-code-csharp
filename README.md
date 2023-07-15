@@ -1,6 +1,6 @@
 # Clean Code Csharp
 
-Consolidate prinicples of clean code in C#
+Consolidate principles of clean code in C#
 
 ## References
 
